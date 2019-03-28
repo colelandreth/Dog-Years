@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(71, 68, 68);
+    
+}
+
+p {
+    color: rgba(66, 66, 66, 0.76);
+}
+
+.jumbotron {
+    background-image: url("https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.form-group {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.form-control{
+    text-align: center;
+}
+
+button {
+    width: 200px;
+}
+
+.footer {
+    height: 20px;
+}
